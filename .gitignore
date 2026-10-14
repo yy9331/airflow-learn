@@ -1,0 +1,8 @@
+# Airflow 运行时生成,不入库
+logs/
+config/
+__pycache__/
+*.pyc
+
+# 本地环境配置
+.env
